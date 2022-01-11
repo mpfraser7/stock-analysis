@@ -10,7 +10,9 @@ First, let's talk about the stock performance, comparing year 2017 with 2018. Th
 
 
 
-Now, let's talk about the difference between the old code and the refactored code.
-
-
+Now, let's talk about the difference between the old code and the refactored code. There was a massive increase in performance for both years. Referring to the screenshots below, the refactored shaved approximately 90% from the original code. It was approximately 8 to 9 times faster. This is mostly due to the fact that the refactored code only had to go through the database once, rather than 12 times.
+Original 2017![](https://github.com/mpfraser7/stock-analysis/blob/main/Original%202017.png)
+Original 2018![](https://github.com/mpfraser7/stock-analysis/blob/main/Original%202018.png)
+Refactored 2017![](https://github.com/mpfraser7/stock-analysis/blob/main/2017%20Refactored.png)
+Refactored 2018![](https://github.com/mpfraser7/stock-analysis/blob/main/2018%20Refactored.png)
 ### Summary
