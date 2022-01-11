@@ -6,7 +6,7 @@ Initially, I wrote a VBA code that analyzes a list of 12 stocks. The analysis pr
 
 ### Results
 First, let's talk about the stock performance, comparing year 2017 with 2018. The average volume and total volume for all stocks is very similar from year to year. However, the return % is drastically different. In 2017, the average return is 67%, compared to -9% in 2018. The best performing stock in 2017 was DQ. The best performing stock in 2018 was RUN.
-![]https://github.com/mpfraser7/stock-analysis/blob/main/Stock%20Performance%20Comparison.png
+![](https://github.com/mpfraser7/stock-analysis/blob/main/Stock%20Performance%20Comparison.png)
 
 
 
