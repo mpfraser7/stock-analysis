@@ -28,3 +28,5 @@ Refactored 2018
 
 ![](https://github.com/mpfraser7/stock-analysis/blob/main/2018%20Refactored.png)
 ### Summary
+
+Refactoring a code is a fine balance. It can save a lot of processing time, but it can also be very tedious and laborious. Before deciding on refactoring a code, you have to think if it is worth the effort. Using this code as an example, saving less than a second for a code that would be ran once a day at the most, might not be worth it. It would take way too many years to reach the break even point. However, if the code went from taking 10 minutes to less than a second, then it would be very well worth it. Before refactoring a code, you have to take into account the volume of the data, run time, velocity, frequency, and other variables. In hindsight, I would not have refactored the code in the stock analysis challenge.
